@@ -2,7 +2,7 @@
 title: 3mily+
 email: hello@emrcraig.com
 url: https://3mily.github.io
-description: "Designs n such - aka just another online portfolio."
+description: "Just another online design portfolio"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -13,10 +13,9 @@ color:
 
 # Footer settings
 footer:
-  copyright: 3mily C
-  location: BC
+  copyright: Emily Craig
+  location: Around town
   social: Around the Web
-  credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -24,13 +23,15 @@ social:
     url: http://twitter.com/emcrg
   - title: github
     url: http://github.com/3mily
+  - title: linkedin
+    url: http://www.linkedin.com/in/emrcraig
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Victoria, BC
+  - line: Vancouver, Canada
 
-# Credits content
-credits: 'Thanks Bootstrap!'
+# # Credits content
+# credits: 'Thanks Bootstrap!'
 
 # Build settings
 markdown: kramdown
