@@ -27,8 +27,8 @@ social:
     url: http://www.linkedin.com/in/emrcraig
 
 # Postal address (add as many lines as necessary)
-address:
-  - line: Vancouver, Canada
+# address:
+#   - line: Vancouver, Canada
 
 # # Credits content
 # credits: 'Thanks Bootstrap!'

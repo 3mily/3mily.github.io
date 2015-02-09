@@ -124,6 +124,11 @@ header .intro-text .skills {
 
 }
 
+header .intro-text .sub {
+    font-size: 1.25em;
+    color: #aaa;
+}
+
 @media(min-width:768px) {
     header .container {
         padding-top: 200px;
