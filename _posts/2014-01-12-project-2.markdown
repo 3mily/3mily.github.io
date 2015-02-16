@@ -1,7 +1,7 @@
 ---
 layout: default
-modal-id: Rally Tally
-img: - Rotten Potatoes
+modal-id: 2
+img: laptop_potatoes.png
 alt: image-alt
 project-date: January 2015
 client: <a href="https://rotten-potatens.herokuapp.com/">Rotten Potatoes</a>.
