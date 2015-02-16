@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: Rally Tally
+img: - Rotten Potatoes
+alt: image-alt
+project-date: January 2015
+client: <a href="https://rotten-potatens.herokuapp.com/">Rotten Potatoes</a>.
+category: Web App - Ruby on Rails
+description: A Rotten Tomatoes-esque movie listing web app, where users can add & rate movies.
+
+---

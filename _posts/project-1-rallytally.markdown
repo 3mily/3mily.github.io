@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 1
+modal-id: - Rally Tally
 img: laptop_rallytally.png
 alt: image-alt
 project-date: January 2015
