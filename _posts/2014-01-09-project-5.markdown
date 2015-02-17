@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 5
+img: ipad_card.png
+alt: image-alt
+project-date: September 2013
+client: Emily
+category: Design - Adobe Illustrator CC
+description: A design sample of an Invitation Card.
+---
